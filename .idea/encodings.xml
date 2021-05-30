@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Run.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/itheima/mario/Mario.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/itheima/role/Boom.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/itheima/role/Brick.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/itheima/role/Coin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/itheima/role/Enemy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/itheima/role/Pipe.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/itheima/ui/GameFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/itheima/util/KeyListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/itheima/util/Map.java" charset="GBK" />
+  </component>
+</project>
